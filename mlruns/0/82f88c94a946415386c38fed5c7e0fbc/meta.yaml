@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sushmand/Documents/Training/Operational_AI/MLFLOW/wineq-raw/mlruns/0/82f88c94a946415386c38fed5c7e0fbc/artifacts
+end_time: 1648184223655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 82f88c94a946415386c38fed5c7e0fbc
+run_uuid: 82f88c94a946415386c38fed5c7e0fbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1648184212159
+status: 3
+tags: []
+user_id: sushmand
